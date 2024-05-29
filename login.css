@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body img{
+    width:100%;
+    height: 100%;
+}
+.main{
+    width:300px;
+    height: 300px;
+    background-color:green;
+    margin-top: -700px;
+    margin-left: 500px;
+}
+.main h1{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.main input{
+    width:300px;
+    height:50px;
+    padding: 3%;
+    border: none;
+    outline: none;
+    background-color: rgb(183, 183, 224);
+}
+.main2 {
+    margin-left: 540px;
+    margin-top: -3px;
+}
+.submain{
+    justify-content: space-between;
+    display: flex;
+    margin-left:500px;
+    margin-top:-100px;
+    margin-right: 520px;
+}
+.submain h4 a{
+text-decoration: none;
+}
+div button{
+    background-color:rgb(204, 204, 224);
+    color: black;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
+div{
+    margin-top: 20px;
+    margin-left: 540px;
+}
